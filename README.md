@@ -1,0 +1,2 @@
+# MongooseHttpService
+使用Mongoose实现的HTTPService功能，不过由于在Mongoose使用的时候，会与openssl的md5冲突，因此我简单修改了mongoose里的md5。
