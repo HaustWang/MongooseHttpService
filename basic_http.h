@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "svr/3rd/mongoose.h"
+#include "mongoose.h"
 #include <map>
 #include <string>
 #include <functional>
